@@ -1,0 +1,14 @@
+E:\Projects\PointOfSales\POSLibrary\bin\Release\POSLibrary.dll.config
+E:\Projects\PointOfSales\POSLibrary\bin\Release\POSLibrary.dll
+E:\Projects\PointOfSales\POSLibrary\bin\Release\POSLibrary.pdb
+E:\Projects\PointOfSales\POSLibrary\bin\Release\Dapper.dll
+E:\Projects\PointOfSales\POSLibrary\bin\Release\EntityFramework.dll
+E:\Projects\PointOfSales\POSLibrary\bin\Release\EntityFramework.SqlServer.dll
+E:\Projects\PointOfSales\POSLibrary\bin\Release\Dapper.xml
+E:\Projects\PointOfSales\POSLibrary\bin\Release\EntityFramework.xml
+E:\Projects\PointOfSales\POSLibrary\bin\Release\EntityFramework.SqlServer.xml
+E:\Projects\PointOfSales\POSLibrary\obj\Release\POSLibrary.csprojAssemblyReference.cache
+E:\Projects\PointOfSales\POSLibrary\obj\Release\POSLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\PointOfSales\POSLibrary\obj\Release\POSLibrary.csproj.CopyComplete
+E:\Projects\PointOfSales\POSLibrary\obj\Release\POSLibrary.dll
+E:\Projects\PointOfSales\POSLibrary\obj\Release\POSLibrary.pdb
